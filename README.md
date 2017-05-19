@@ -14,7 +14,7 @@ Code ist compatible with **XCode 8.3 and Swift 3**.
 ## The algorithms
 
 ### Trees
-* **Binary Tree and Binary Search Tree**: A tree where each node has at most two children.
+* [Binary Tree and Binary Search Tree](BinaryTree.playground/Contents.swift): A tree where each node has at most two children.
 
 
 
