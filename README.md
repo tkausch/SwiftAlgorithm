@@ -1,5 +1,5 @@
 # Swift Algorithms
-Here you will find popular algorithms problems and it's simple solutions in Swift language, with detailed explanations of how and why the work. 
+Here you will find popular algorithms problems and it's simple solutions in a Swift playground, with detailed explanations of how and why they work. 
 
 The goal ot this project is to explain how algorithms work. The focus is on clarity and simplicity of code. That said, nost of the code should be ready for your project. Or use the code to prepare for you programming interview.
 
@@ -14,7 +14,7 @@ Code ist compatible with **XCode 8.3 and Swift 3**.
 ## The algorithms
 
 ### Trees
-* Binary Tree and Binary Search Tree. A tree where each node has at most two children.
+* **Binary Tree and Binary Search Tree**: A tree where each node has at most two children.
 
 
 
