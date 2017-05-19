@@ -1,5 +1,5 @@
 # Swift Algorithms
-Here you will find implementations of popular algorithms and data structures in Swift playgrounds, with detailed explanations of how and why they work. 
+Here you will find implementations of popular algorithms and data structures using Swift langauge, with detailed explanations of how and why they work. 
 
 The goal ot this project is to explain how algorithms work. The focus is on clarity and simplicity of code. That said, most of the code should be ready for your project. Or use the code to prepare for you programming interview or computer science studies. 
 
