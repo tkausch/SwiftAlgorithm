@@ -15,6 +15,7 @@ Code ist compatible with **XCode 8.3 and Swift 3**.
 
 ### Trees
 * [Binary Tree and Binary Search Tree](BinaryTree.playground/Contents.swift): A tree where each node has at most two children.
+* [Longest Palindrom Substring](LongestPalindromSubstring.playground/Contents.swift): Two simple solutions to a simple but interesting problem.
 
 
 
