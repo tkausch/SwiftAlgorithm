@@ -16,6 +16,12 @@ Code ist compatible with **XCode 8.3 and Swift 3**.
 ### Trees
 * [Binary Tree and Binary Search Tree](BinaryTree.playground/Contents.swift): A tree where each node has at most two children.
 * [Longest Palindrom Substring](LongestPalindromSubstring.playground/Contents.swift): Two simple solutions to a simple but interesting problem.
+* [Palindromr](Palindrome.playground/Contents.swift): Check if a given string is a palindrome.
+* [Longest Palindrom Substring](LongestPalindromSubstring.playground/Contents.swift): Looks for longest palincromic stubstring.
+* [Plus One](PlusOne.playground/Contents.swift): Given a non-negative integer represented as a non-empty array of digits, plus one to the integer.
+* [Sum](Sum.playground/Contents.swift):  Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+* [WordLadder](WordLadder.playground/Contents.swift):  Given two words (beginWord and endWord), and a word list, find the length of shortest transformation sequence from beginWord to endWord.
+ 
 
 
 
