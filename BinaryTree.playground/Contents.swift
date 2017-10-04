@@ -171,26 +171,19 @@ bst.minDepthOptimized()
 
 extension BinaryTree {
     
-    public func isBalanced() -> Int {
-        return BinaryTree.isBalanced(tree: self)
+    public func isBalanced() -> Bool {
+        return BinaryTree.isBalanced(self) != -1
     }
     
-    
-    public static func isBalanced(tree: BinaryTree<T>?) -> Int {
-        if let t = tree {
-            
-            let leftHeight = isBalanced(tree: t.left)
-            if leftHeight < 0 {
+    public static func isBalanced(_ root: BinaryTree?) -> Int {
+        if let r = root {
+            let leftHeight = isBalanced(r.left)
+            let rightHeight = isBalanced(r.right)
+            if leftHeight >= 0 && rightHeight >= 0 && abs(leftHeight - rightHeight) <= 1 {
+                return max(leftHeight, rightHeight) + 1
+            } else {
                 return -1
             }
-            
-            let rightHeight = isBalanced(tree: t.right)
-            if rightHeight < 0 {
-                return -1
-            }
-            
-            return abs(leftHeight - rightHeight) <= 1 ? max(leftHeight, rightHeight) + 1 : -1
-            
         } else {
             return 0
         }
