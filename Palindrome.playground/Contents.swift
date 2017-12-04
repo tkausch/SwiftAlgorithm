@@ -26,21 +26,22 @@ func isPalindrome(_ s: String) -> Bool {
         .joined(separator: "")
         .lowercased()
     
-    return trimmed == String(trimmed.characters.reversed())
+    return trimmed == String(trimmed.reversed())
 }
 
 
-isPalindrome("A man a plan a canal: Panama")
-isPalindrome("thomas")
-isPalindrome("112211")
-isPalindrome("0p")
-isPalindrome("Tt")
-isPalindrome("")
-isPalindrome("AAA")
-
+isPalindrome("A man a plan a canal: Panama") == true
+isPalindrome("thomas") == false
+isPalindrome("112211") == true
+isPalindrome("0p") == false
+isPalindrome("Tt") == true
+isPalindrome("      ") == true
+isPalindrome("") == true
+isPalindrome("AAA") == true
+isPalindrome("!.;") == true
 
 //: **Solution: O(n) runtime, O(1) space:**
-//: The idea is simple, have two pointers – one at the head while the other one at t        // its purpose is to convert Character to a typehe tail.
+//: The idea is simple, have two pointers – one at the head while the other one at tail.
 //: Move them towards each other until they meet while skipping non-alphanumeric characters.
 //: Consider the case where given string contains only non-alphanumeric characters. This is a valid palindrome because the empty string is also a valid palindrome.
 
@@ -62,37 +63,36 @@ func isPalindrome2(_ str: String) -> Bool {
         return true
     }
     
-    var s = str.lowercased()
+    let s = str.lowercased()
     var i = s.startIndex
     var j = s.index(before:s.endIndex)
     
     while i < j {
-        while i < j  && !alphaNumeric.contains(s[i].unicodeScalar())    {
+        while i < j  && !alphaNumeric.contains(s[i].unicodeScalar()) {
             i = s.index(after:i)
         }
         while i < j  && !alphaNumeric.contains(s[j].unicodeScalar()) {
             j = s.index(before:j)
         }
-        if i < j {
-            if s[i] != s[j] {
-                return false
-            } else {
+        if i < j  {
+            if s[i] == s[j] {
                 i = s.index(after:i)
                 j = s.index(before:j)
+            } else {
+                return false
             }
-            
         }
     }
     return true
     
 }
 
-
-isPalindrome2("A man a plan a canal: Panama")
-isPalindrome2("thomas")
-isPalindrome2("112211")
-isPalindrome2("0p")
-isPalindrome2("Tt")
-isPalindrome2("      ")
-isPalindrome2("AAA")
-
+isPalindrome2("A man a plan a canal: Panama") == true
+isPalindrome2("thomas") == false
+isPalindrome2("112211") == true
+isPalindrome2("0p") == false
+isPalindrome2("Tt") == true
+isPalindrome2("      ") == true
+isPalindrome2("") == true
+isPalindrome2("AAA") == true
+isPalindrome2("!.;") == true
