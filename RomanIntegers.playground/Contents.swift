@@ -1,10 +1,5 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
-var str = "Hello, playground"
-
-
+//: # Integer to Roman
+//: **Question:** Given an integer, convert it to a roman numeral.
 let romanNumbers = [(1000, "M"), (900, "CM"), (500, "D"), (400, "CD"), (100,"C"), (90,"XC"), (50, "L"), (40, "XL"), (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I")]
 
 func intToRoman(_ num: Int) -> String {
@@ -25,7 +20,8 @@ func intToRoman(_ num: Int) -> String {
 intToRoman(2017)
 intToRoman(9)
 intToRoman(549)
-
+//: # Roman to Integer
+//: **Question:** Given an roman number, convert it to an integer.
 func romanToInt(_ roman: String) -> Int {
     var current = roman[roman.startIndex..<roman.endIndex]
     var idx = 0
@@ -40,9 +36,7 @@ func romanToInt(_ roman: String) -> Int {
     }
     return number
 }
-
-
-
+//: We can do this even with a better runtime.
 func value(char: Character) -> Int {
     switch char {
     case "M":
@@ -68,7 +62,7 @@ func romanToInt2(_ roman: String) -> Int {
     var result = 0
     var next = roman.startIndex
     while next != roman.endIndex {
-        var valueNext = value(char: roman[next])
+        let valueNext = value(char: roman[next])
         let next2 = roman.index(after: next)
         if next2 != roman.endIndex {
             let valueNext2 = value(char: roman[next2])
@@ -90,7 +84,3 @@ func romanToInt2(_ roman: String) -> Int {
 
 romanToInt2("DXL")
 romanToInt2("DXLIX")
-
-
-
-
