@@ -24,6 +24,8 @@ Code ist compatible with **XCode 9.1 and Swift 4**.
 * [WordLadder](WordLadder.playground/Contents.swift):  Given two words (beginWord and endWord), and a word list, find the length of shortest transformation sequence from beginWord to endWord.
 * [Roman Numbers](RomanIntegers.playground/Contents.swift): Given a integer convert to roman repreentation and vice versa. 
 * [Missing Ranges](MissingRanges.playground/Contents.swift): Given a sorted integer array return its missing ranges.
+* [Sudoku](Sudoku.playground.playground/Contents.swift): Check if given Sudoku is valid and find a solution. 
+
  
 
 
