@@ -1,4 +1,4 @@
-# Swift Knowledge & Algorithms
+# Swift Algorithms
 
 Swift is a powerful and intuitive programming language for macOS, iOS, watchOS, tvOS and beyond. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design, yet also produces software that runs lightning-fast.
 
@@ -14,37 +14,36 @@ Code ist compatible with **XCode 11.5 and Swift 5.2**.
 This is a swift knowledge base for common ios problems that occure during daily developer work. The knowledge  base is grouped into categories and provides playgrounds for the listed problems.
 
 ### Strings
-How to calculate the ROT13 of a string
-How to capitalize the first letter of a string
-How to capitalize words in a string using capitalized
-How to check whether a string contains any words from an array
-How to concatenate strings to make one joined string
-How to convert a string to lowercase letters
-How to detect a URL in a String 
-How to get the lines in a string as an array
-How to load a string from a file
-How to loop through letters in a string
-How to read a single character from a string
-How to remove a prefix from a string
-How to repeat a string
-How to reverse a string using reversed()
-How to run a case-insensitive search for one string inside another
-How to split a string into an array: components(separatedBy:)
-How to trim whitespace in a string
-How to match regular expressions in strings
-How to replace text in a string
+* How to calculate the ROT13 of a string
+* How to capitalize the first letter of a string
+* How to capitalize words in a string using capitalized
+* How to check whether a string contains any words from an array
+* How to concatenate strings to make one joined string
+* How to convert a string to lowercase letters
+* How to detect a URL in a String 
+* How to get the lines in a string as an array
+* How to load a string from a file
+* How to loop through letters in a string
+* How to read a single character from a string
+* How to remove a prefix from a string
+* How to repeat a string
+* How to reverse a string using reversed()
+* How to run a case-insensitive search for one string inside another
+* How to split a string into an array: components(separatedBy:)
+* How to trim whitespace in a string
+* How to match regular expressions in strings
+* How to replace text in a string
 
 ### Localizations
-How to test localization by setting a debug locale and double length pseudolanguage
-
+* How to test localization by setting a debug locale and double length pseudolanguage
 
 ### Natural Language
-How to parse a sentence and distinguish word types
+* How to parse a sentence and distinguish word types
 
 ### Collections
 
 
-## Swift Code Puzzles
+## Swift Puzzles
 
 Swift Code puzzles is a collection of interesting problems (also known as challenges) that will help Swift you to learn and practice your skills in logic programming, data structures and algorithms in the Swift programming language.
 
@@ -65,7 +64,7 @@ Swift Code puzzles is a collection of interesting problems (also known as challe
 
 
 
-## Swift  Algorithms
+## Swift Algorithms
 
 * [Algorithm list](https://en.wikipedia.org/wiki/List_of_algorithms) A list of useful algorithms.
 
