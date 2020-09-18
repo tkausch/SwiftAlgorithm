@@ -14,9 +14,9 @@ Code ist compatible with **XCode 11.5 and Swift 5.2**.
 This is a swift knowledge base for common ios problems that occure during daily developer work. The knowledge  base is grouped into categories and provides playgrounds for the listed problems.
 
 ### Strings
-* How to calculate the ROT13 of a string
-* How to capitalize the first letter of a string
-* How to capitalize words in a string using capitalized
+* [How to calculate the ROT13 of a string](https://gist.github.com/tkausch/8ea253ea424a4a93e4a6a67316dfa741)
+* [How to capitalize the first letter of a string](https://gist.github.com/tkausch/6e4b378fedd12edaf5d796e04c37fba2)
+* [How to capitalize words in a string using capitalized](https://gist.github.com/tkausch/6a30fcacee01d6e6ba1dd06d53eee02c)
 * How to check whether a string contains any words from an array
 * How to concatenate strings to make one joined string
 * How to convert a string to lowercase letters
