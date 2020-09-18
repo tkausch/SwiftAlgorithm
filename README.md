@@ -17,7 +17,7 @@ This is a swift knowledge base for common ios problems that occure during daily 
 * [How to calculate the ROT13 of a string](https://gist.github.com/tkausch/8ea253ea424a4a93e4a6a67316dfa741)
 * [How to capitalize the first letter of a string](https://gist.github.com/tkausch/6e4b378fedd12edaf5d796e04c37fba2)
 * [How to capitalize words in a string using capitalized](https://gist.github.com/tkausch/6a30fcacee01d6e6ba1dd06d53eee02c)
-* How to check whether a string contains any words from an array
+* [How to check whether a string contains any words from an array](https://gist.github.com/tkausch/b22f9d67171584137bffbea30521d36a)
 * How to concatenate strings to make one joined string
 * How to convert a string to lowercase letters
 * How to detect a URL in a String 
