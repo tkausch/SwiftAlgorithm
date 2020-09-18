@@ -38,7 +38,7 @@ This is a swift knowledge base for common ios problems that occure during daily 
 * How to test localization by setting a debug locale and double length pseudolanguage
 
 ### Natural Language
-* How to parse a sentence and distinguish word types
+* [How to parse a sentence and distinguish word types](https://gist.github.com/tkausch/fef57a06c8c0e171b3fdbcf46ef8a6ea)
 
 ### Collections
 
