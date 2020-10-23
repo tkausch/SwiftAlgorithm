@@ -63,7 +63,7 @@ Swift Code puzzles is a collection of interesting problems (also known as challe
 * [Sudoku](CodePuzzles/Sudoku.playground.playground/Contents.swift): Check if given Sudoku is valid and find a solution. 
 
 ### Cryptography
-* [Alphabet Cipher](CodePuzzles/AlphabetCipher.playground/Contentx.swift): Implement an Alphabet Cipher in Swift. 
+* [Alphabet Cipher](CodePuzzles/AlphabetCipher.playground/Contents.swift): Implement an Alphabet Cipher in Swift. 
 
 
 ## Swift Algorithms
