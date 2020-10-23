@@ -4,7 +4,7 @@ Swift is a powerful and intuitive programming language for macOS, iOS, watchOS, 
 
 This repository contains playgrounds with implementaions for common swift problems,  code puzzles and fundamential algorithms.
 
-The focus is on clarity and simplicity of code. That said, most of the code should be ready for your project. Or use the code to prepare for you programming interview in a tech company or computer science studies. 
+The focus is on clarity and simplicity of code. That said, most of the code should be ready for your project. Or use the code to prepare for you programming interview or computer science studies. 
 
 Code ist compatible with **XCode 11.5 and Swift 5.2**.
 
@@ -62,6 +62,8 @@ Swift Code puzzles is a collection of interesting problems (also known as challe
 * [Missing Ranges](CodePuzzles/MissingRanges.playground/Contents.swift): Given a sorted integer array return its missing ranges.
 * [Sudoku](CodePuzzles/Sudoku.playground.playground/Contents.swift): Check if given Sudoku is valid and find a solution. 
 
+### Cryptography
+* [Alphabet Cipher](CodePuzzles/AlphabetCipher.playground/Contentx.swift): Implement an Alphabet Cipher in Swift. 
 
 
 ## Swift Algorithms
