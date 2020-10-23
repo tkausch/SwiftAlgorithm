@@ -30,13 +30,24 @@ This is a swift knowledge base for common ios problems that occure during daily 
 * [How to trim whitespace in a string](https://gist.github.com/tkausch/3f96daced05a680156db20fbae0a028f)
 * [How to match regular expressions in strings](https://www.hackingwithswift.com/articles/108/how-to-use-regular-expressions-in-swift)
 
-### Localizations
-* How to test localization by setting a debug locale and double length pseudolanguage
+### Language Enum
+* [How to add raw values to enums](https://www.hackingwithswift.com/example-code/language/how-to-add-raw-values-to-enums)
+* [How to add associated values to enums](https://www.hackingwithswift.com/example-code/language/how-to-add-associated-values-to-enums)
+
+
+### Language Array
+* [Check whether all items in an array match a condition](https://www.hackingwithswift.com/example-code/language/check-whether-all-items-in-an-array-match-a-condition)
+
+### Language Initializers
+* [How to add a custom initializer to a struct without losing its memberwise initializer](https://www.hackingwithswift.com/example-code/language/how-to-add-a-custom-initializer-to-a-struct-without-losing-its-memberwise-initializer)
+
+### Language Doc umentation
+* [How to add markdown comments to your code](https://www.hackingwithswift.com/example-code/language/how-to-add-markdown-comments-to-your-code)
+
 
 ### Natural Language
 * [How to parse a sentence and distinguish word types](https://gist.github.com/tkausch/fef57a06c8c0e171b3fdbcf46ef8a6ea)
 
-### Collections
 
 
 ## Swift Puzzles
@@ -62,14 +73,11 @@ Swift Code puzzles is a collection of interesting problems (also known as challe
 * [Alphabet Cipher](CodePuzzles/AlphabetCipher.playground/Contents.swift): Implement an Alphabet Cipher in Swift. 
 
 
-## Swift Algorithms
-
-* [Algorithm list](https://en.wikipedia.org/wiki/List_of_algorithms) A list of useful algorithms.
 
 ### Foundations
 
 * [Big-O notation](https://en.wikipedia.org/wiki/Big_O_notation) If you don't understand what does **O(n)** mean you should read this first.
 * [Recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science)) Recursion is one of the central ideas of computer science. Many problems have simple recursive solutions. 
 
-### Trees
+### Data Structures
 * [Binary Tree and Binary Search Tree](BasicAlgorithms/BinaryTree.playground/Contents.swift): A tree where each node has at most two children.
