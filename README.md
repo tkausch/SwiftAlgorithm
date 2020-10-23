@@ -30,18 +30,28 @@ This is a swift knowledge base for common ios problems that occure during daily 
 * [How to trim whitespace in a string](https://gist.github.com/tkausch/3f96daced05a680156db20fbae0a028f)
 * [How to match regular expressions in strings](https://www.hackingwithswift.com/articles/108/how-to-use-regular-expressions-in-swift)
 
-### Language Enum
+### Enum
 * [How to add raw values to enums](https://www.hackingwithswift.com/example-code/language/how-to-add-raw-values-to-enums)
 * [How to add associated values to enums](https://www.hackingwithswift.com/example-code/language/how-to-add-associated-values-to-enums)
 
 
-### Language Array
+### Array
 * [Check whether all items in an array match a condition](https://www.hackingwithswift.com/example-code/language/check-whether-all-items-in-an-array-match-a-condition)
+* [How to append one array to another](https://www.hackingwithswift.com/example-code/language)
 
-### Language Initializers
+### Language
 * [How to add a custom initializer to a struct without losing its memberwise initializer](https://www.hackingwithswift.com/example-code/language/how-to-add-a-custom-initializer-to-a-struct-without-losing-its-memberwise-initializer)
+* [How to check for valid method input using the guard keyword](https://www.hackingwithswift.com/example-code/language/how-to-check-for-valid-method-input-using-the-guard-keyword)
 
-### Language Doc umentation
+### Compiler 
+* [How to check the Swift version at compile time](https://www.hackingwithswift.com/example-code/language/how-to-check-the-swift-version-at-compile-time)
+* [How to check your program state using precondition()](https://www.hackingwithswift.com/example-code/language/how-to-check-your-program-state-using-precondition)
+
+### Date
+* [How to check weather a date is within date range](https://www.hackingwithswift.com/example-code/language/how-to-check-whether-a-date-is-inside-a-date-range)
+* [How to compare date](https://www.hackingwithswift.com/example-code/language/how-to-compare-dates)
+
+### Documentation
 * [How to add markdown comments to your code](https://www.hackingwithswift.com/example-code/language/how-to-add-markdown-comments-to-your-code)
 
 
