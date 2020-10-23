@@ -19,20 +19,16 @@ This is a swift knowledge base for common ios problems that occure during daily 
 * [How to capitalize words in a string using capitalized](https://gist.github.com/tkausch/6a30fcacee01d6e6ba1dd06d53eee02c)
 * [How to check whether a string contains any words from an array](https://gist.github.com/tkausch/b22f9d67171584137bffbea30521d36a)
 * [How to concatenate strings to make one joined string](https://gist.github.com/tkausch/8113f019363602c2f2531c2710f88a4e)
-* How to convert a string to lowercase letters
-* How to detect a URL in a String 
-* How to get the lines in a string as an array
-* How to load a string from a file
-* How to loop through letters in a string
-* How to read a single character from a string
-* How to remove a prefix from a string
-* How to repeat a string
-* How to reverse a string using reversed()
-* How to run a case-insensitive search for one string inside another
-* How to split a string into an array: components(separatedBy:)
-* How to trim whitespace in a string
-* How to match regular expressions in strings
-* How to replace text in a string
+* [How to convert a string to lowercase letters](https://gist.github.com/tkausch/d3cf6a8be92fca0af390535920efeb4b)
+* [How to detect a URL in a String](https://gist.github.com/tkausch/7c5e195b6d88f527ddd9fd46cff9c394)
+* [How to get the lines in a string as an array](https://gist.github.com/tkausch/2f3484767ef41a65b400a734a5aabde6)
+* [How to load a string from a file](https://gist.github.com/tkausch/29fa0bf14589b36244833861267bf70c)
+* [How to read a single character from a string](https://gist.github.com/tkausch/081d619133e95c0bd4ff0f903f44ff83)
+* [How to remove a prefix from a string](https://gist.github.com/tkausch/4973a6d149eba24d57cc1051d484946f)
+* [How to reverse a string using reversed()](https://gist.github.com/tkausch/00bb12a9973a4a41a04482818848ab29)
+* [How to run a case-insensitive search for one string inside another](https://gist.github.com/tkausch/2c3fe33164aaf0bbc0cbe92e3a0bc425)
+* [How to trim whitespace in a string](https://gist.github.com/tkausch/3f96daced05a680156db20fbae0a028f)
+* [How to match regular expressions in strings](https://www.hackingwithswift.com/articles/108/how-to-use-regular-expressions-in-swift)
 
 ### Localizations
 * How to test localization by setting a debug locale and double length pseudolanguage
