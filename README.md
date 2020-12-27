@@ -9,6 +9,14 @@ The focus is on clarity and simplicity of code. That said, most of the code shou
 Code ist compatible with **XCode 11.5 and Swift 5.2**.
 
 
+## Swift Standard Library Missing Algorithms
+
+[Swift Algorithms](https://swift.org/blog/swift-algorithms/) is an open-source package of sequence and collection algorithms, along with their related types. It's pretty new and development is ongoing. This section contains some missing parts.
+*  [All N-Tuples](SwiftAPI/Tuples.playground/Contents.swift): 
+
+
+
+
 ## Swift Knowledge Base
 
 This is a swift knowledge base for common ios problems that occure during daily developer work. The knowledge  base is grouped into categories and provides playgrounds for the listed problems.
