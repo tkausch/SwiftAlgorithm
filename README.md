@@ -19,28 +19,45 @@ This is a swift knowledge base for common ios problems that occure during daily 
 * [How to capitalize words in a string using capitalized](https://gist.github.com/tkausch/6a30fcacee01d6e6ba1dd06d53eee02c)
 * [How to check whether a string contains any words from an array](https://gist.github.com/tkausch/b22f9d67171584137bffbea30521d36a)
 * [How to concatenate strings to make one joined string](https://gist.github.com/tkausch/8113f019363602c2f2531c2710f88a4e)
-* How to convert a string to lowercase letters
-* How to detect a URL in a String 
-* How to get the lines in a string as an array
-* How to load a string from a file
-* How to loop through letters in a string
-* How to read a single character from a string
-* How to remove a prefix from a string
-* How to repeat a string
-* How to reverse a string using reversed()
-* How to run a case-insensitive search for one string inside another
-* How to split a string into an array: components(separatedBy:)
-* How to trim whitespace in a string
-* How to match regular expressions in strings
-* How to replace text in a string
+* [How to convert a string to lowercase letters](https://gist.github.com/tkausch/d3cf6a8be92fca0af390535920efeb4b)
+* [How to detect a URL in a String](https://gist.github.com/tkausch/7c5e195b6d88f527ddd9fd46cff9c394)
+* [How to get the lines in a string as an array](https://gist.github.com/tkausch/2f3484767ef41a65b400a734a5aabde6)
+* [How to load a string from a file](https://gist.github.com/tkausch/29fa0bf14589b36244833861267bf70c)
+* [How to read a single character from a string](https://gist.github.com/tkausch/081d619133e95c0bd4ff0f903f44ff83)
+* [How to remove a prefix from a string](https://gist.github.com/tkausch/4973a6d149eba24d57cc1051d484946f)
+* [How to reverse a string using reversed()](https://gist.github.com/tkausch/00bb12a9973a4a41a04482818848ab29)
+* [How to run a case-insensitive search for one string inside another](https://gist.github.com/tkausch/2c3fe33164aaf0bbc0cbe92e3a0bc425)
+* [How to trim whitespace in a string](https://gist.github.com/tkausch/3f96daced05a680156db20fbae0a028f)
+* [How to match regular expressions in strings](https://www.hackingwithswift.com/articles/108/how-to-use-regular-expressions-in-swift)
 
-### Localizations
-* How to test localization by setting a debug locale and double length pseudolanguage
+### Enum
+* [How to add raw values to enums](https://www.hackingwithswift.com/example-code/language/how-to-add-raw-values-to-enums)
+* [How to add associated values to enums](https://www.hackingwithswift.com/example-code/language/how-to-add-associated-values-to-enums)
+
+
+### Array
+* [Check whether all items in an array match a condition](https://www.hackingwithswift.com/example-code/language/check-whether-all-items-in-an-array-match-a-condition)
+* [How to append one array to another](https://www.hackingwithswift.com/example-code/language)
+
+### Language
+* [How to add a custom initializer to a struct without losing its memberwise initializer](https://www.hackingwithswift.com/example-code/language/how-to-add-a-custom-initializer-to-a-struct-without-losing-its-memberwise-initializer)
+* [How to check for valid method input using the guard keyword](https://www.hackingwithswift.com/example-code/language/how-to-check-for-valid-method-input-using-the-guard-keyword)
+
+### Compiler 
+* [How to check the Swift version at compile time](https://www.hackingwithswift.com/example-code/language/how-to-check-the-swift-version-at-compile-time)
+* [How to check your program state using precondition()](https://www.hackingwithswift.com/example-code/language/how-to-check-your-program-state-using-precondition)
+
+### Date
+* [How to check weather a date is within date range](https://www.hackingwithswift.com/example-code/language/how-to-check-whether-a-date-is-inside-a-date-range)
+* [How to compare date](https://www.hackingwithswift.com/example-code/language/how-to-compare-dates)
+
+### Documentation
+* [How to add markdown comments to your code](https://www.hackingwithswift.com/example-code/language/how-to-add-markdown-comments-to-your-code)
+
 
 ### Natural Language
 * [How to parse a sentence and distinguish word types](https://gist.github.com/tkausch/fef57a06c8c0e171b3fdbcf46ef8a6ea)
 
-### Collections
 
 
 ## Swift Puzzles
@@ -61,19 +78,18 @@ Swift Code puzzles is a collection of interesting problems (also known as challe
 * [Roman Numbers](CodePuzzles/RomanIntegers.playground/Contents.swift): Given a integer convert to roman repreentation and vice versa. 
 * [Missing Ranges](CodePuzzles/MissingRanges.playground/Contents.swift): Given a sorted integer array return its missing ranges.
 * [Sudoku](CodePuzzles/Sudoku.playground.playground/Contents.swift): Check if given Sudoku is valid and find a solution. 
+* [MaxSubArraySumProblem](https://gist.github.com/tkausch/17bba0364fc5949138139b1ef6214a3e): Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+* [MaySubArrayProductProblem](https://gist.github.com/tkausch/e263c9cbda4a7652df2543e36a84df32) [Smarter](https://gist.github.com/tkausch/d241c688feb952112423acdc8590273f) Given an integer array nums, find the contiguous subarray within an array (containing at least one number) which has the largest product.
 
 ### Cryptography
 * [Alphabet Cipher](CodePuzzles/AlphabetCipher.playground/Contents.swift): Implement an Alphabet Cipher in Swift. 
 
 
-## Swift Algorithms
-
-* [Algorithm list](https://en.wikipedia.org/wiki/List_of_algorithms) A list of useful algorithms.
 
 ### Foundations
 
 * [Big-O notation](https://en.wikipedia.org/wiki/Big_O_notation) If you don't understand what does **O(n)** mean you should read this first.
 * [Recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science)) Recursion is one of the central ideas of computer science. Many problems have simple recursive solutions. 
 
-### Trees
+### Data Structures
 * [Binary Tree and Binary Search Tree](BasicAlgorithms/BinaryTree.playground/Contents.swift): A tree where each node has at most two children.
