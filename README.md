@@ -85,7 +85,7 @@ Swift Code puzzles is a collection of interesting problems (also known as challe
 * [WordLadder](CodePuzzles/WordLadder.playground/Contents.swift):  Given two words (beginWord and endWord), and a word list, find the length of shortest transformation sequence from beginWord to endWord.
 * [Roman Numbers](CodePuzzles/RomanIntegers.playground/Contents.swift): Given a integer convert to roman repreentation and vice versa. 
 * [Missing Ranges](CodePuzzles/MissingRanges.playground/Contents.swift): Given a sorted integer array return its missing ranges.
-* [Sudoku](CodePuzzles/Sudoku.playground.playground/Contents.swift): Check if given Sudoku is valid and find a solution. 
+* [Sudoku](CodePuzzles/Sudoku.playground/Contents.swift): Check if given Sudoku is valid and find a solution. 
 * [MaxSubArraySumProblem](https://gist.github.com/tkausch/17bba0364fc5949138139b1ef6214a3e): Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 * [MaySubArrayProductProblem](https://gist.github.com/tkausch/e263c9cbda4a7652df2543e36a84df32) [Smarter](https://gist.github.com/tkausch/d241c688feb952112423acdc8590273f) Given an integer array nums, find the contiguous subarray within an array (containing at least one number) which has the largest product.
 
