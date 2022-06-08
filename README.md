@@ -6,8 +6,8 @@ The focus is on clarity and simplicity of code. That said, most of the code shou
 
 ## Swift Standard Library Missing Algorithms
 
-[Swift Algorithms](https://swift.org/blog/swift-algorithms/) is an open-source package of sequence and collection algorithms, along with their related types. It's pretty new and development is ongoing. This section contains some missing parts.
-*  [All N-Tuples](SwiftAPI/Tuples.playground/Contents.swift): 
+[Swift Algorithms](https://swift.org/blog/swift-algorithms/) is an open-source package of sequence and collection algorithms, along with their related types. It's pretty new and development is ongoing.
+ 
 
 
 ## Swift Knowledge Base
@@ -67,6 +67,7 @@ Swift Code puzzles is a collection of interesting problems (also known as challe
 
 
 ### Strings
+* [All N-Tuples](puzzles/Tuples.playground/Contents.swift):
 * [Longest Palindrom Substring](puzzles/LongestPalindromSubstring.playground/Contents.swift): Two simple solutions to a simple but interesting problem.
 * [Palindromr](puzzles/Palindrome.playground/Contents.swift): Check if a given string is a palindrome.
 * [Longest Palindrom Substring](puzzles/LongestPalindromSubstring.playground/Contents.swift): Looks for longest palincromic stubstring.
@@ -93,4 +94,4 @@ Swift Code puzzles is a collection of interesting problems (also known as challe
 * [Recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science)) Recursion is one of the central ideas of computer science. Many problems have simple recursive solutions. 
 
 ### Data Structures
-* [Binary Tree and Binary Search Tree](BasicAlgorithms/BinaryTree.playground/Contents.swift): A tree where each node has at most two children.
+* [Binary Tree and Binary Search Tree](puzzles/BinaryTree.playground/Contents.swift): A tree where each node has at most two children.
