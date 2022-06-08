@@ -67,7 +67,8 @@ Swift Code puzzles is a collection of interesting problems (also known as challe
 
 
 ### Strings
-* [All N-Tuples](puzzles/Tuples.playground/Contents.swift):
+* [All N-Tuples](puzzles/Tuples.playground/Contents.swift): Generate all N-Tuples
+* [AsyncSequence](puzzles/AsyncSequence.playground): An AsyncCounter implemented with AsyncSequnces
 * [Longest Palindrom Substring](puzzles/LongestPalindromSubstring.playground/Contents.swift): Two simple solutions to a simple but interesting problem.
 * [Palindromr](puzzles/Palindrome.playground/Contents.swift): Check if a given string is a palindrome.
 * [Longest Palindrom Substring](puzzles/LongestPalindromSubstring.playground/Contents.swift): Looks for longest palincromic stubstring.
