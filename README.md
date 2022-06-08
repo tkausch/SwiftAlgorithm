@@ -86,7 +86,7 @@ Swift Code puzzles is a collection of interesting problems (also known as challe
 ### Cryptography
 * [Alphabet Cipher](puzzles/AlphabetCipher.playground/Contents.swift): Implement an Alphabet Cipher in Swift. 
 
-### Concurrency
+### Concurrency
 * [AsyncSequence](puzzles/AsyncSequence.playground): An AsyncCounter implemented with AsyncSequnces
 * [DiningPhilosophers](puzzles/DiningPhilosophers.playground): Dining Philosophers implemented with async/wait/Actor pattern
 
