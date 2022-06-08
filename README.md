@@ -74,23 +74,23 @@ Swift Code puzzles is a collection of interesting problems (also known as challe
 
 
 ### Strings
-* [Longest Palindrom Substring](CodePuzzles/LongestPalindromSubstring.playground/Contents.swift): Two simple solutions to a simple but interesting problem.
-* [Palindromr](CodePuzzles/Palindrome.playground/Contents.swift): Check if a given string is a palindrome.
-* [Longest Palindrom Substring](CodePuzzles/LongestPalindromSubstring.playground/Contents.swift): Looks for longest palincromic stubstring.
-* [Palindrome Number](CodePuzzles/PalindromNumber.playground/Contents.swift): Determine whether an integer is a palindrome. 
+* [Longest Palindrom Substring](puzzles/LongestPalindromSubstring.playground/Contents.swift): Two simple solutions to a simple but interesting problem.
+* [Palindromr](puzzles/Palindrome.playground/Contents.swift): Check if a given string is a palindrome.
+* [Longest Palindrom Substring](puzzles/LongestPalindromSubstring.playground/Contents.swift): Looks for longest palincromic stubstring.
+* [Palindrome Number](puzzles/PalindromNumber.playground/Contents.swift): Determine whether an integer is a palindrome. 
 
 ### Arrays
-* [Plus One](CodePuzzles/PlusOne.playground/Contents.swift): Given a non-negative integer represented as a non-empty array of digits, plus one to the integer.
-* [Sum](CodePuzzles/Sum.playground/Contents.swift):  Given an array of integers, return indices of the two numbers such that they add up to a specific target.
-* [WordLadder](CodePuzzles/WordLadder.playground/Contents.swift):  Given two words (beginWord and endWord), and a word list, find the length of shortest transformation sequence from beginWord to endWord.
-* [Roman Numbers](CodePuzzles/RomanIntegers.playground/Contents.swift): Given a integer convert to roman repreentation and vice versa. 
-* [Missing Ranges](CodePuzzles/MissingRanges.playground/Contents.swift): Given a sorted integer array return its missing ranges.
-* [Sudoku](CodePuzzles/Sudoku.playground/Contents.swift): Check if given Sudoku is valid and find a solution. 
+* [Plus One](puzzles/PlusOne.playground/Contents.swift): Given a non-negative integer represented as a non-empty array of digits, plus one to the integer.
+* [Sum](puzzles/Sum.playground/Contents.swift):  Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+* [WordLadder](puzzles/WordLadder.playground/Contents.swift):  Given two words (beginWord and endWord), and a word list, find the length of shortest transformation sequence from beginWord to endWord.
+* [Roman Numbers](puzzles/RomanIntegers.playground/Contents.swift): Given a integer convert to roman repreentation and vice versa. 
+* [Missing Ranges](puzzles/MissingRanges.playground/Contents.swift): Given a sorted integer array return its missing ranges.
+* [Sudoku](puzzles/Sudoku.playground/Contents.swift): Check if given Sudoku is valid and find a solution. 
 * [MaxSubArraySumProblem](https://gist.github.com/tkausch/17bba0364fc5949138139b1ef6214a3e): Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 * [MaySubArrayProductProblem](https://gist.github.com/tkausch/e263c9cbda4a7652df2543e36a84df32) [Smarter](https://gist.github.com/tkausch/d241c688feb952112423acdc8590273f) Given an integer array nums, find the contiguous subarray within an array (containing at least one number) which has the largest product.
 
 ### Cryptography
-* [Alphabet Cipher](CodePuzzles/AlphabetCipher.playground/Contents.swift): Implement an Alphabet Cipher in Swift. 
+* [Alphabet Cipher](puzzles/AlphabetCipher.playground/Contents.swift): Implement an Alphabet Cipher in Swift. 
 
 
 
