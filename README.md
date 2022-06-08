@@ -1,20 +1,13 @@
 # Swift Algorithms
 
-Swift is a powerful and intuitive programming language for macOS, iOS, watchOS, tvOS and beyond. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design, yet also produces software that runs lightning-fast.
-
-This repository contains playgrounds with implementaions for common swift problems,  code puzzles and fundamential algorithms.
+This repository contains playgrounds with implementaions for common swift problems,  code puzzles and other algorithms.
 
 The focus is on clarity and simplicity of code. That said, most of the code should be ready for your project. Or use the code to prepare for you programming interview or computer science studies. 
-
-Code ist compatible with **XCode 11.5 and Swift 5.2**.
-
 
 ## Swift Standard Library Missing Algorithms
 
 [Swift Algorithms](https://swift.org/blog/swift-algorithms/) is an open-source package of sequence and collection algorithms, along with their related types. It's pretty new and development is ongoing. This section contains some missing parts.
 *  [All N-Tuples](SwiftAPI/Tuples.playground/Contents.swift): 
-
-
 
 
 ## Swift Knowledge Base
